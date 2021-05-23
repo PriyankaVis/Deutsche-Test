@@ -3,6 +3,7 @@
 ##### Steps to run the code <H6>
   - Downlaod the repo.
   - Import the Java maven Project
+  - keep trade.json file at C:\\Users\\priyanka.vispute\\Documents\\trade.json location
   - Right click on project - > run -> Run as java application
   
 ##### Steps to execute the code <H6>
